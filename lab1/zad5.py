@@ -23,3 +23,9 @@ for c in range(10):
 for i in range(len(accuracy)):
     accuracy[i] /= 10
     print(accuracy[i])
+
+plt.xscale('log')
+plt.scatter(iterations,accuracy)
+plt.xlabel('Number of iterations')
+plt.ylabel('Average accuracy')
+plt.show()
