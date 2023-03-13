@@ -10,7 +10,6 @@ label = load_iris().target
 iterations = [1,2,5,10,20,40,80,200,500,1000]
 accuracy = [0,0,0,0,0,0,0,0,0,0]
 counter = 0
-ratios = [0.1, 0.3, 0.5]
 for c in range(10):
     train, test, label_train, label_test = train_test_split(data,label,test_size=0.2,train_size=0.8)
     for i in iterations:
