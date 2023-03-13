@@ -21,7 +21,7 @@ for c in range(10):
 
 for i in range(len(accuracy)):
     accuracy[i] /= 10
-    print(accuracy[i])
+    print("Liczba epok: " + str(iterations[i]) + " Wynik: " + str(accuracy[i]))
 
 plt.xscale('log')
 plt.scatter(iterations,accuracy)

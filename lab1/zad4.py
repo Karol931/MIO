@@ -14,6 +14,7 @@ ratios = [0.1, 0.3, 0.5]
 for ratio in ratios:
     train, test, label_train, label_test = train_test_split(data,label,test_size=ratio,train_size=1-ratio)
     neuron.fit(train,label_train)
+    print("Test/Train: " + str(ratio) + "/" + str(1-ratio))
     print("Score: " + str(neuron.score(test, label_test)))
     predicted = neuron.predict(test)
-    
+

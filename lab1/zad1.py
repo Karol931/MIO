@@ -14,7 +14,7 @@ for i in n:
     #plt.scatter(k1[:,0],k1[:,1],c=x)
 
     neuron.fit(k1,x)
-    print(neuron.score(k1_test,x_test))
+    print("Score: " + str(neuron.score(k1_test,x_test)))
     x1 = np.linspace(-10,10,100)
     x2 = -(1./neuron.coef_[0][1])*(neuron.coef_[0][0]*x1+neuron.intercept_[0])
 
@@ -25,4 +25,4 @@ for i in n:
     plt.scatter(np.array(k1)[:,0], np.array(k1)[:,1], c=x)
 plt.show()
 
-print(k1)
+#print(k1)
