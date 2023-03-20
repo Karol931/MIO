@@ -4,6 +4,7 @@ from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.datasets import load_digits
+from sklearn.metrics import confusion_matrix
 
 data = load_digits().data
 label = load_digits().target
@@ -16,6 +17,8 @@ for i in range(8):
     network.fit(data_train,label_train)
     predicted_labels = network.predict(data_train)
     score = network.score(data_test,label_test)
-    print(score)
+    cm = confusion_matrix(label_train, predicted_labels)
+    print("Confusion matrix:\n" + str(cm))
+    print("Score: " + str(score))
 
 

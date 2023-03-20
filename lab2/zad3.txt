@@ -1,0 +1,384 @@
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: identity Solver: sgd l_rate: constant
+Score = 0.8583333333333333
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.8583333333333333
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.8583333333333333
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9333333333333333
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9333333333333333
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9333333333333333
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9194444444444444
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9194444444444444
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9194444444444444
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9305555555555556
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9305555555555556
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9305555555555556
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.1
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.1
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.1
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.1
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.1
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.1
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.09722222222222222
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.09722222222222222
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.09722222222222222
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.06111111111111111
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.06111111111111111
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.06111111111111111
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.25
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.25
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.25
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.5361111111111111
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.5361111111111111
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.5361111111111111
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.5777777777777777
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.5777777777777777
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.5777777777777777
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.8611111111111112
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.8611111111111112
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.8611111111111112
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: relu Solver: sgd l_rate: constant
+Score = 0.37222222222222223
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.37222222222222223
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.37222222222222223
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: relu Solver: sgd l_rate: constant
+Score = 0.4888888888888889
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.4888888888888889
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.4888888888888889
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: relu Solver: sgd l_rate: constant
+Score = 0.9194444444444444
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.9194444444444444
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.9194444444444444
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: relu Solver: sgd l_rate: constant
+Score = 0.9333333333333333
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.9333333333333333
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.9333333333333333
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: identity Solver: adam
+Score = 0.7694444444444445
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: identity Solver: adam
+Score = 0.8833333333333333
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: identity Solver: adam
+Score = 0.925
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: identity Solver: adam
+Score = 0.925
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: logistic Solver: adam
+Score = 0.13055555555555556
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: logistic Solver: adam
+Score = 0.18888888888888888
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: logistic Solver: adam
+Score = 0.6138888888888889
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: logistic Solver: adam
+Score = 0.1
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: tanh Solver: adam
+Score = 0.6361111111111111
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: tanh Solver: adam
+Score = 0.8
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: tanh Solver: adam
+Score = 0.8527777777777777
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: tanh Solver: adam
+Score = 0.8944444444444445
+Network: [7, 29, 40, 9] Max_iter: 20 Activation: relu Solver: adam
+Score = 0.6861111111111111
+Network: [7, 29, 40, 9] Max_iter: 50 Activation: relu Solver: adam
+Score = 0.7888888888888889
+Network: [7, 29, 40, 9] Max_iter: 100 Activation: relu Solver: adam
+Score = 0.9388888888888889
+Network: [7, 29, 40, 9] Max_iter: 1000 Activation: relu Solver: adam
+Score = 0.9111111111111111
+Network: [24, 22, 15] Max_iter: 20 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9111111111111111
+Network: [24, 22, 15] Max_iter: 20 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9111111111111111
+Network: [24, 22, 15] Max_iter: 20 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9111111111111111
+Network: [24, 22, 15] Max_iter: 50 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9444444444444444
+Network: [24, 22, 15] Max_iter: 50 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9444444444444444
+Network: [24, 22, 15] Max_iter: 50 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9444444444444444
+Network: [24, 22, 15] Max_iter: 100 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9527777777777777
+Network: [24, 22, 15] Max_iter: 100 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9527777777777777
+Network: [24, 22, 15] Max_iter: 100 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9527777777777777
+Network: [24, 22, 15] Max_iter: 1000 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9444444444444444
+Network: [24, 22, 15] Max_iter: 1000 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9444444444444444
+Network: [24, 22, 15] Max_iter: 1000 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9444444444444444
+Network: [24, 22, 15] Max_iter: 20 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.09444444444444444
+Network: [24, 22, 15] Max_iter: 20 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.09444444444444444
+Network: [24, 22, 15] Max_iter: 20 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.09444444444444444
+Network: [24, 22, 15] Max_iter: 50 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.10277777777777777
+Network: [24, 22, 15] Max_iter: 50 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.10277777777777777
+Network: [24, 22, 15] Max_iter: 50 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.10277777777777777
+Network: [24, 22, 15] Max_iter: 100 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.10277777777777777
+Network: [24, 22, 15] Max_iter: 100 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.10277777777777777
+Network: [24, 22, 15] Max_iter: 100 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.10277777777777777
+Network: [24, 22, 15] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.1
+Network: [24, 22, 15] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.1
+Network: [24, 22, 15] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.1
+Network: [24, 22, 15] Max_iter: 20 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.46944444444444444
+Network: [24, 22, 15] Max_iter: 20 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.46944444444444444
+Network: [24, 22, 15] Max_iter: 20 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.46944444444444444
+Network: [24, 22, 15] Max_iter: 50 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.7027777777777777
+Network: [24, 22, 15] Max_iter: 50 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.7027777777777777
+Network: [24, 22, 15] Max_iter: 50 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.7027777777777777
+Network: [24, 22, 15] Max_iter: 100 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.8305555555555556
+Network: [24, 22, 15] Max_iter: 100 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.8305555555555556
+Network: [24, 22, 15] Max_iter: 100 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.8305555555555556
+Network: [24, 22, 15] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.9055555555555556
+Network: [24, 22, 15] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.9055555555555556
+Network: [24, 22, 15] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.9055555555555556
+Network: [24, 22, 15] Max_iter: 20 Activation: relu Solver: sgd l_rate: constant
+Score = 0.7888888888888889
+Network: [24, 22, 15] Max_iter: 20 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.7888888888888889
+Network: [24, 22, 15] Max_iter: 20 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.7888888888888889
+Network: [24, 22, 15] Max_iter: 50 Activation: relu Solver: sgd l_rate: constant
+Score = 0.8944444444444445
+Network: [24, 22, 15] Max_iter: 50 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.8944444444444445
+Network: [24, 22, 15] Max_iter: 50 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.8944444444444445
+Network: [24, 22, 15] Max_iter: 100 Activation: relu Solver: sgd l_rate: constant
+Score = 0.9277777777777778
+Network: [24, 22, 15] Max_iter: 100 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.9277777777777778
+Network: [24, 22, 15] Max_iter: 100 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.9277777777777778
+Network: [24, 22, 15] Max_iter: 1000 Activation: relu Solver: sgd l_rate: constant
+Score = 0.9611111111111111
+Network: [24, 22, 15] Max_iter: 1000 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.9611111111111111
+Network: [24, 22, 15] Max_iter: 1000 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.9611111111111111
+Network: [24, 22, 15] Max_iter: 20 Activation: identity Solver: adam
+Score = 0.875
+Network: [24, 22, 15] Max_iter: 50 Activation: identity Solver: adam
+Score = 0.9388888888888889
+Network: [24, 22, 15] Max_iter: 100 Activation: identity Solver: adam
+Score = 0.9611111111111111
+Network: [24, 22, 15] Max_iter: 1000 Activation: identity Solver: adam
+Score = 0.9416666666666667
+Network: [24, 22, 15] Max_iter: 20 Activation: logistic Solver: adam
+Score = 0.36666666666666664
+Network: [24, 22, 15] Max_iter: 50 Activation: logistic Solver: adam
+Score = 0.6388888888888888
+Network: [24, 22, 15] Max_iter: 100 Activation: logistic Solver: adam
+Score = 0.7277777777777777
+Network: [24, 22, 15] Max_iter: 1000 Activation: logistic Solver: adam
+Score = 0.9277777777777778
+Network: [24, 22, 15] Max_iter: 20 Activation: tanh Solver: adam
+Score = 0.825
+Network: [24, 22, 15] Max_iter: 50 Activation: tanh Solver: adam
+Score = 0.9138888888888889
+Network: [24, 22, 15] Max_iter: 100 Activation: tanh Solver: adam
+Score = 0.9388888888888889
+Network: [24, 22, 15] Max_iter: 1000 Activation: tanh Solver: adam
+Score = 0.9472222222222222
+Network: [24, 22, 15] Max_iter: 20 Activation: relu Solver: adam
+Score = 0.7666666666666667
+Network: [24, 22, 15] Max_iter: 50 Activation: relu Solver: adam
+Score = 0.9305555555555556
+Network: [24, 22, 15] Max_iter: 100 Activation: relu Solver: adam
+Score = 0.9805555555555555
+Network: [24, 22, 15] Max_iter: 1000 Activation: relu Solver: adam
+Score = 0.9527777777777777
+Network: [10, 18, 22] Max_iter: 20 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9222222222222223
+Network: [10, 18, 22] Max_iter: 20 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9222222222222223
+Network: [10, 18, 22] Max_iter: 20 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9222222222222223
+Network: [10, 18, 22] Max_iter: 50 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9138888888888889
+Network: [10, 18, 22] Max_iter: 50 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9138888888888889
+Network: [10, 18, 22] Max_iter: 50 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9138888888888889
+Network: [10, 18, 22] Max_iter: 100 Activation: identity Solver: sgd l_rate: constant
+Score = 0.9527777777777777
+Network: [10, 18, 22] Max_iter: 100 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.9527777777777777
+Network: [10, 18, 22] Max_iter: 100 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.9527777777777777
+Network: [10, 18, 22] Max_iter: 1000 Activation: identity Solver: sgd l_rate: constant
+Score = 0.95
+Network: [10, 18, 22] Max_iter: 1000 Activation: identity Solver: sgd l_rate: invscaling
+Score = 0.95
+Network: [10, 18, 22] Max_iter: 1000 Activation: identity Solver: sgd l_rate: adaptive
+Score = 0.95
+Network: [10, 18, 22] Max_iter: 20 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 20 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 20 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 50 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 50 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 50 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 100 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 100 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 100 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: constant
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: invscaling
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 1000 Activation: logistic Solver: sgd l_rate: adaptive
+Score = 0.1
+Network: [10, 18, 22] Max_iter: 20 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.38333333333333336
+Network: [10, 18, 22] Max_iter: 20 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.38333333333333336
+Network: [10, 18, 22] Max_iter: 20 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.38333333333333336
+Network: [10, 18, 22] Max_iter: 50 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.5722222222222222
+Network: [10, 18, 22] Max_iter: 50 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.5722222222222222
+Network: [10, 18, 22] Max_iter: 50 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.5722222222222222
+Network: [10, 18, 22] Max_iter: 100 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.7472222222222222
+Network: [10, 18, 22] Max_iter: 100 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.7472222222222222
+Network: [10, 18, 22] Max_iter: 100 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.7472222222222222
+Network: [10, 18, 22] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: constant
+Score = 0.9305555555555556
+Network: [10, 18, 22] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: invscaling
+Score = 0.9305555555555556
+Network: [10, 18, 22] Max_iter: 1000 Activation: tanh Solver: sgd l_rate: adaptive
+Score = 0.9305555555555556
+Network: [10, 18, 22] Max_iter: 20 Activation: relu Solver: sgd l_rate: constant
+Score = 0.5833333333333334
+Network: [10, 18, 22] Max_iter: 20 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.5833333333333334
+Network: [10, 18, 22] Max_iter: 20 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.5833333333333334
+Network: [10, 18, 22] Max_iter: 50 Activation: relu Solver: sgd l_rate: constant
+Score = 0.65
+Network: [10, 18, 22] Max_iter: 50 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.65
+Network: [10, 18, 22] Max_iter: 50 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.65
+Network: [10, 18, 22] Max_iter: 100 Activation: relu Solver: sgd l_rate: constant
+Score = 0.9
+Network: [10, 18, 22] Max_iter: 100 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.9
+Network: [10, 18, 22] Max_iter: 100 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.9
+Network: [10, 18, 22] Max_iter: 1000 Activation: relu Solver: sgd l_rate: constant
+Score = 0.9527777777777777
+Network: [10, 18, 22] Max_iter: 1000 Activation: relu Solver: sgd l_rate: invscaling
+Score = 0.9527777777777777
+Network: [10, 18, 22] Max_iter: 1000 Activation: relu Solver: sgd l_rate: adaptive
+Score = 0.9527777777777777
+Network: [10, 18, 22] Max_iter: 20 Activation: identity Solver: adam
+Score = 0.7722222222222223
+Network: [10, 18, 22] Max_iter: 50 Activation: identity Solver: adam
+Score = 0.9111111111111111
+Network: [10, 18, 22] Max_iter: 100 Activation: identity Solver: adam
+Score = 0.9555555555555556
+Network: [10, 18, 22] Max_iter: 1000 Activation: identity Solver: adam
+Score = 0.9444444444444444
+Network: [10, 18, 22] Max_iter: 20 Activation: logistic Solver: adam
+Score = 0.2861111111111111
+Network: [10, 18, 22] Max_iter: 50 Activation: logistic Solver: adam
+Score = 0.3055555555555556
+Network: [10, 18, 22] Max_iter: 100 Activation: logistic Solver: adam
+Score = 0.3055555555555556
+Network: [10, 18, 22] Max_iter: 1000 Activation: logistic Solver: adam
+Score = 0.8944444444444445
+Network: [10, 18, 22] Max_iter: 20 Activation: tanh Solver: adam
+Score = 0.7
+Network: [10, 18, 22] Max_iter: 50 Activation: tanh Solver: adam
+Score = 0.825
+Network: [10, 18, 22] Max_iter: 100 Activation: tanh Solver: adam
+Score = 0.9222222222222223
+Network: [10, 18, 22] Max_iter: 1000 Activation: tanh Solver: adam
+Score = 0.9194444444444444
+Network: [10, 18, 22] Max_iter: 20 Activation: relu Solver: adam
+Score = 0.7722222222222223
+Network: [10, 18, 22] Max_iter: 50 Activation: relu Solver: adam
+Score = 0.925
+Network: [10, 18, 22] Max_iter: 100 Activation: relu Solver: adam
+Score = 0.9277777777777778
+Network: [10, 18, 22] Max_iter: 1000 Activation: relu Solver: adam
+Score = 0.9277777777777778
